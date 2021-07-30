@@ -1,0 +1,7 @@
+{
+    "prefix":"PUT YOUR PREFIX HERE",
+    "token":"PUT YOUR BOTS TOKEN HERE",
+    "DisableEveryone": true,
+    "ID": "PUT OWNER ID WHO USING COMMANDS",
+    "founder": "DanGer"
+}
